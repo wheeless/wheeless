@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently utilizing **Angular**
 
-#- 👯 I’m looking to collaborate on [HostMio](https://github.com/wheeless/HostMio)
-
 - 👨‍💻 All of my projects are available at [https://github.com/wheeless](https://github.com/wheeless)
 
 - 💬 Ask me about **Angular**
