@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wheeless" alt="wheeless" /></a> </p>
 
-- 🔭 I’m currently working on [HostMio](https://github.com/wheeless/HostMio)
+- 🔭 I’m currently working on [Avernix Technologies](https://avernix.com)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently utilizing **Angular**
 
-- 👯 I’m looking to collaborate on [HostMio](https://github.com/wheeless/HostMio)
+#- 👯 I’m looking to collaborate on [HostMio](https://github.com/wheeless/HostMio)
 
 - 👨‍💻 All of my projects are available at [https://github.com/wheeless](https://github.com/wheeless)
 
